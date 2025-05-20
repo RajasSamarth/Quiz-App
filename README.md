@@ -23,7 +23,7 @@ This is a web application that offers quizzes and study notes for various progra
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/RajasSamarth/Quiz-App.git
 cd your-repo-name
 
 2. Set Up the Database
